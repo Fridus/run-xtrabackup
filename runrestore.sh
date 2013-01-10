@@ -34,7 +34,7 @@ applyLogInc() {
 #  Variables
 #############################
 
-BACKDIR="/nas/mysql/testb"
+BACKDIR="/var/lib/mysql/backup"
 
 PREPARE=true
 
