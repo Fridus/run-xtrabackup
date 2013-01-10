@@ -1,5 +1,7 @@
  #!/bin/sh
 
+# source : https://gist.github.com/1495347
+
 usage() {
 cat << EOF
 usage: $0 options
